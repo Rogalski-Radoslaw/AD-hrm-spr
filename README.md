@@ -1,0 +1,1 @@
+The demo folder contains code which wasn't written by me. It was a prototype for demonstration purposes and has many bugs.
